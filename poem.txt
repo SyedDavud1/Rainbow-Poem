@@ -4,4 +4,5 @@ red
 green
 blue
 red
+orange
 These are colors of Rainbow
