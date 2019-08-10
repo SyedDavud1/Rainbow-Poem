@@ -8,4 +8,4 @@ orange
 yellow
 
 These are colors of Rainbow
-and the unicorn
+and the unicorn.
